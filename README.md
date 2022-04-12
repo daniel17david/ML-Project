@@ -12,6 +12,7 @@ Customer details (gender, age, region etc.)
 
 Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
 
+
 **Data Dictionary**
 
 **Variable | Definition**
