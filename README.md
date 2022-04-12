@@ -39,4 +39,4 @@ Is_Active | If the Customer is Active in last 3 Months
 
 Is_Lead(Target) | If the Customer is interested for the Credit Card0 : Customer is not interested1 : Customer is interested
 
-Evaluation Metric : ROC_AUC
+**Evaluation Metric** : ROC_AUC
